@@ -1,6 +1,3 @@
-//COMP 429 SOCKET PROGRAMMING PROJECT
-//CHARLES MINDERHOUT & MICHAEL MERABI
-
 #include <stdio.h>  
 #include <string.h> 
 #include <stdlib.h>  
